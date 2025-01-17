@@ -1,99 +1,102 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
+# Podcast - Planejamento e Produção
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
+CAPA  PODCAST:
 
-<p align="center">
-    preview do podcast
-</p>
+Utilizando o gerado de imagem do  CANVA, cujo endereço é [Gerador de imagens IA - Conversão de texto a imagem grátis | Canva](https://www.canva.com/pt_br/gerador-imagem-ia/), com o seguinte prompt:
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
+Create an image of a podcaster young modern woman smiling with microphone, side by side night city, camera settingt/8.1/100s, complex lighting backlighting dynamic cinematic lithting global ilumination, ultra-high resolution realistic filter of real color, pho processing in 16k.
 
-# Projeto Podcast Gerado por I.A.s
+PROMPT DE CRIAÇÃO DO NOME DO PODCAST, UTILIZANDO O CHAT GPT:
 
+Você é um roteirista de podcast sobre o mundo dos investimentos, focado na utilização do Python no mercado financeiro.  
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+{REGRAS}
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+ >O nome deve ser enxuto, um nome e um subtítulo; 
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+>O nome deve conter alguma palavra forte que remeta ao mercado financeiro ou a dinheiro.{REGRAS NEGATIVAS}
 
-## 💻 Tecnologias utilizadas no projeto
+ >Não quero que o nome contenha palavras em inglês; 
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+PROMPT DE CRIAÇÃO DO ROTEIRO UTILIZANDO O CHAT GPT
 
-## ✨ Como foi feito ?
+Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia e mercado financeiro focado na utilização python cujo nome é "Código de Ouro -  Descubra como o Python pode ser a chave para o sucesso financeiro" e tem foco em demonstrar como o Python se tornou uma das linguagens mais utilizadas no mercado financeiro com diversas aplicações.  O formato do roteiro deve ser: 
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+[INTRODUÇÃO]
 
-## 📚 Materiais
+ [CURIOSIDADE1]
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+[CURIOSIDADE2]
 
+[FINALIZAÇÃO]    
 
-## 🛠️ Instruções de execução
+ {REGRAS}
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+ >No bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal "ei nerd", como se fossem escrito pelo Peter Jordan.  
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+>No bloco [CURIOSIDADE1] Substitua  por uma curiosidade de Análise de Dados com Python. 
 
-## 👨‍💻 Expert
+ No bloco [CURIOSIDADE2] Substitua por uma  curiosidade de Análise Técnica com Python.  
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+No bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final "Eu sou a Rosi esse foi o nosso Código de Ouro dessa semana".
 
----
+  Use termos de fácil de explicação. 
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+ O podcast vai ser apresentado somente por uma pessoa, chamada Rosi
+
+ O podcast deve ser curto. 
+
+ {REGRAS NEGATIVAS] 
+
+ Não use muitos temos técnicos e Não ultrapasse 5 minutos de duração.
+
+## Informações Gerais
+
+- Nome do Podcast:
+- Descrição:
+- Público-alvo: Pessoas que se interessam por mercado financeiro e programação Python
+- Formato:
+- Duração média dos episódios:
+
+## Equipe
+
+- Host(s):
+- Produtor(es):
+- Editor(es):
+
+## Equipamentos Necessários
+
+- [ ]  Microfone
+- [ ]  Interface de áudio
+- [ ]  Fones de ouvido
+- [ ]  Software de gravação
+- [ ]  Software de edição
+
+## Planejamento de Conteúdo
+
+| **Episódio** | **Tema** | **Convidados** | **Data** | **Status** |
+| --- | --- | --- | --- | --- |
+| EP 01 |  |  |  |  |
+| EP 02 |  |  |  |  |
+| EP 03 |  |  |  |  |
+
+## Roteiro Base
+
+- Introdução (tempo estimado: )
+- Apresentação do tema
+- Desenvolvimento
+- Conclusão
+- Call to action
+
+## Canais de Distribuição
+
+- [ ]  Spotify
+- [ ]  Apple Podcasts
+- [ ]  Google Podcasts
+- [ ]  YouTube
+
+## Divulgação
+
+- Redes sociais
+- E-mail marketing
+- Parcerias
